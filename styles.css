@@ -1,2 +1,22 @@
-
+nav{
+	width:100%;
+	overflow:hidden;
+	
+	justify-content:space-between;
+	alignitems:center;
+	
+	background:lightskyblue;
+}
+ul{
+	list-style-type:none;
+	display:flex;
+	
+}
+div{
+	
+	flex-direction:row;
+	text-decoration:none;
+	width:70px;
+	padding:15px;
+}
 /* Your CSS Code here. */
